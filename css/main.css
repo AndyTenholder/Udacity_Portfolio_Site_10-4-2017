@@ -22,6 +22,10 @@ hr{
     margin-bottom: 1em;
 }
 
+li{
+    padding-top: .2em;
+}
+
 .header__inner {
     width: 100%;
     margin-left: auto;
@@ -29,11 +33,10 @@ hr{
 }
 
 .header_logo {
-    min-width: 72px;
-    max-width: 15%;
+    width: 72px;
     margin-left: 2em;
     vertical-align: top;
-    margin-top: 12px;
+    margin-top: 1em;
 }
 .header_text{
     float: right;
@@ -60,21 +63,37 @@ hr{
 }
 
 .self_illistration{
+    max-width: 400px;
     float: left;
     width: 40%;
     clear: both;
-    
 }
 
 .bio{
     overflow: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.bio_text{
+.bio_text_list{
     font-size: 1.25em;
     display: inline-block;
     width: 59%;
     clear: both;
+}
+
+.bio_text_paragraph{
+    margin: 0;
+    font-size: 1.25em;
+    display: inline-block;
+    width: 59%;
+    clear: both;
+    display: none;
+}
+
+.school-link{
+    font-weight: 500;
+    text-decoration: underline;
 }
 
 .featured-works-title{
