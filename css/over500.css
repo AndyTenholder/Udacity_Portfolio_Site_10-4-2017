@@ -2,7 +2,7 @@ body {
     font-size: 15px;
 }
 
-ul{
+ul {
     padding-left: 3em;
 }
 
@@ -10,27 +10,27 @@ ul{
     width: 85px;
 }
 
-.header_title{
+.header_title {
     font-size: 1em;
 }
 
-.self_illistration{
+.self_illistration {
     padding-left: 1em;        
 }
 
-.bio_text_list{
+.bio_text_list {
     width: 56%;
 }
 
-.project{
+.project {
     width: 50%;
     padding: 1em;
 }
 
-.project_title{
+.project_title {
     font-size: 1em;
 }
 
-.project_course{
+.project_course {
     font-size: .8em;
 }

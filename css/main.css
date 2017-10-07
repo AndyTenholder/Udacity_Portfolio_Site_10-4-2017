@@ -1,5 +1,5 @@
 body {
-    font-family: 'Ubuntu', sans-serif;
+    font-family: "Ubuntu", sans-serif;
     font-size: 12px;
     color: #424242;
 }
@@ -8,21 +8,21 @@ header, nav, footer, section, article, div {
     box-sizing: border-box;
 }
 
-a{
+a {
     text-decoration: none;
     color: #424242;
 }
 
-ul{
+ul {
     padding-left: 2em;
 }
 
-hr{
+hr {
     margin-top: 1em;
     margin-bottom: 1em;
 }
 
-li{
+li {
     padding-top: .2em;
 }
 
@@ -38,14 +38,15 @@ li{
     vertical-align: top;
     margin-top: 1em;
 }
-.header_text{
+
+.header_text {
     float: right;
     clear: both;
     margin-right: 2em;
     margin-top: 1em;
 }
 
-.header_name{
+.header_name {
     font-size:1.7em;
     margin-top: .5em;
     margin-bottom: 0em;
@@ -55,34 +56,34 @@ li{
     clear: both;    
 }
 
-.header_title{
+.header_title {
     font-size: 1.5em;
     margin: 0px;
     float: right;
     clear: both;
 }
 
-.self_illistration{
+.self_illistration {
     max-width: 400px;
     float: left;
     width: 40%;
     clear: both;
 }
 
-.bio{
+.bio {
     overflow: auto;
     margin-left: auto;
     margin-right: auto;
 }
 
-.bio_text_list{
+.bio_text_list {
     font-size: 1.25em;
     display: inline-block;
     width: 59%;
     clear: both;
 }
 
-.bio_text_paragraph{
+.bio_text_paragraph {
     margin: 0;
     font-size: 1.25em;
     display: inline-block;
@@ -91,17 +92,17 @@ li{
     display: none;
 }
 
-.school-link{
+.school-link {
     font-weight: 500;
     text-decoration: underline;
 }
 
-.featured-works-title{
+.featured-works-title {
     margin-bottom: 0;
     padding-left: 1em;
 }
 
-.projects{
+.projects {
     width: 100%;
     clear: both;
     padding-left: 1em;
@@ -111,33 +112,33 @@ li{
     float: left;
 }
 
-.project{
+.project {
     width: 100%;
     clear: both;
     float: left;
     padding: .5em;
 }
 
-.project_title, .project_course{
+.project_title, .project_course {
     margin: 0em;
     text-align: center
 }
 
-.project_title{
+.project_title {
     font-size: 1.2em;
 }
 
-.project_course{
+.project_course {
     font-size: 1em;
 }
 
-.project_thumbnail{
+.project_thumbnail {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
 }
 
-.square_thumbnail{
+.square_thumbnail {
     margin-bottom: 5px;
 }
